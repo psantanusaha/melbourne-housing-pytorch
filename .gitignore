@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Models
+models/*.pth
+*.pth
+
+# Results
+results/*.png
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
