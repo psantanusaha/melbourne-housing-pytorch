@@ -1,6 +1,6 @@
 # Melbourne Housing Price Prediction with PyTorch
 
-A deep learning project predicting Melbourne house prices using PyTorch. Built as part of learning ML/AI fundamentals.
+A deep learning project predicting Melbourne house prices using PyTorch.
 
 ## 🎯 Results
 
